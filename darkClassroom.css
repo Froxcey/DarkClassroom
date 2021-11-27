@@ -1,0 +1,260 @@
+/*
+    Author:             Froxcey
+    Github respository: https://github.com/froxcey/DarkClassroom
+    Homepage:           https://froxcey.tumblr.com
+    License:            MIT
+    Version:            0.4.2
+*/
+
+:root {
+    --bg-color: #232323;
+    --secondary-bg-color: #363739;
+    --text-color: #cecece;
+    --icon-color: #949494;
+}
+
+/* Change background */
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color)
+}
+
+.OX4Vcb {
+    background-color: var(--bg-color);
+}
+
+.joJglb {
+    border-bottom: 0.0625rem solid #535353;
+    background-color: var(--bg-color);
+}
+
+.EHzcec {
+    background-color: var(--secondary-bg-color) !important;
+}
+
+.qjTEB {
+    background-color: var(--secondary-bg-color);
+}
+
+.FwR7Pc {
+    background-color: #46484a !important;
+}
+
+.YkTkoe {
+    background-color: var(--secondary-bg-color);
+}
+
+.LBlAUc {
+    background-color: var(--secondary-bg-color);
+    border-color: var(--secondary-bg-color)
+}
+
+/* Texts */
+.z3vRcc {
+    color: var(--text-color)
+}
+
+.jO7h3c {
+    color: var(--text-color)
+}
+
+.nmFHZb {
+    color: var(--icon-color);
+    border: 0.0625rem solid #616161;
+}
+
+.zTrXGf:hover {
+    background-color: #4f5154;
+}
+
+.zZN2Lb-Wvd9Cc {
+    color: var(--text-color)
+}
+
+.editable {
+    color: var(--text-color)
+}
+
+.Lzdwhd-BrZSOd {
+    color: var(--icon-color)
+}
+
+.Pce5Kb {
+    color: var(--icon-color)
+}
+
+.sxa9Pc {
+    color: var(--text-color)
+}
+
+.nforOe {
+    color: var(--icon-color)
+}
+
+/* Class panels */
+.Aopndd {
+    border: 0.0625rem solid #616161;
+    background-color: var(--secondary-bg-color);
+}
+
+.Aopndd:hover {
+    border: 0.0625rem solid #616161 !important;
+    box-shadow: none;
+}
+
+/* Due date */
+.oBSRLe {
+    color: var(--text-color);
+}
+
+/* Classroom Title */
+.IqJTee {
+    color: var(--icon-color);
+}
+
+/* Assignments */
+.apFsO.onkcGd,
+.apFsO.onkcGd:visited {
+    color: var(--text-color);
+}
+
+/* Class names and description */
+.nhassd,
+.asQXV {
+    color: var(--text-color);
+}
+
+.TajIHf,
+.dDKhVc {
+    color: var(--icon-color);
+}
+
+/* Post texts */
+.pco8Kc,
+.obylVb,
+.j70YMc {
+    color: var(--text-color)
+}
+
+/* Post something text */
+.K6Ovqd {
+    color: var(--text-color)
+}
+
+/* Buttons & icons */
+.NMm5M {
+    fill: var(--icon-color);
+    color: var(--icon-color);
+}
+.gb_pa svg {
+    fill: var(--icon-color);
+}
+
+/*.hhikbc {
+    fill: white;
+    color: white;
+}*/
+/* Borders */
+.SZ0kZe {
+    border-top: .0625rem solid var(--icon-color);
+}
+
+.BEAGS {
+    border: 1px var(--icon-color) solid;
+}
+
+.s2g3Xd {
+    border-top: 0.0625rem solid var(--icon-color);
+}
+
+.oleV8d {
+    border: 0.0625rem solid var(--icon-color);
+}
+
+.gHz6xd.Aopndd.rZXyy:hover {
+    margin: 0 1.5rem 1.5rem 0 !important;
+}
+
+.JRosVd .VfPpkd-kBDsod .NMm5M {
+    fill: white;
+}
+
+/*.eT1oJ .VfPpkd-kBDsod .NMm5M {
+    fill: var(--text-color);
+}*/
+
+.hhikbc {
+    fill: var(--text-color);
+}
+
+.vUBwW .NMm5M {
+    fill: var(--text-color)
+}
+
+.DkDwHe:hover {
+    background-color: #4f5154 !important;
+}
+
+.xSP5ic {
+    color: var(--icon-color);
+}
+
+.dDKhVc-Wvd9Cc {
+    color: var(--icon-color)
+}
+
+.qk0lee.QRiHXd.VBEdtc-Wvd9Cc:focus {
+    background-color: #5e6166
+}
+
+.hgjBDc.e8E4Gb {
+    background-color: var(--bg-color)
+}
+
+.vnnr5e .I9OJHe {
+    background-color: var(--bg-color)
+}
+
+.vnnr5e:not(.RDPZE):hover .I9OJHe {
+    background-color: var(--secondary-bg-color)
+}
+
+.vnnr5e .CIy9F {
+    background-color: var(--bg-color)
+}
+
+.vnnr5e:not(.RDPZE):hover .CIy9F {
+    background-color: var(--secondary-bg-color)
+}
+
+.Erb9le:not(.RDPZE) .qmMNRc:hover {
+    color: var(--icon-color)
+}
+
+.Y5sE8d.RDPZE {
+    background: var(--secondary-bg-color)
+}
+
+.tLDEHd {
+    color: var(--icon-color)
+}
+
+.ViCi4 {
+    color: var(--icon-color)
+}
+
+.bxp7vf.bFjUmb-Wvd9Cc.m1PbN.qJJSvb.vUBwW .NMm5M {
+    fill: white;
+}
+
+.UYUfn.oJeWuf.wnIM7.fb0g6.d3Fkdd {
+    background-color: var(--bg-color)
+}
+
+.A6dC2c {
+    color: var(--icon-color)
+}
+
+.WOPwXe {
+    color: var(--icon-color);
+}
