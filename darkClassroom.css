@@ -6,12 +6,12 @@
     License:            MIT
     Version:            0.4.2
 */
-
 :root {
     --bg-color: #232323;
     --secondary-bg-color: #363739;
     --text-color: #cecece;
     --icon-color: #949494;
+    --focus-color: #47494b;
 }
 
 /* Change background */
@@ -45,11 +45,10 @@ body {
     background-color: var(--secondary-bg-color);
 }
 
-.LBlAUc {
+/*.LBlAUc {
     background-color: var(--secondary-bg-color);
     border-color: var(--secondary-bg-color)
-}
-
+}*/
 /* Texts */
 .z3vRcc {
     color: var(--text-color)
@@ -60,12 +59,13 @@ body {
 }
 
 .nmFHZb {
+    background-color: var(--secondary-bg-color);
     color: var(--icon-color);
     border: 0.0625rem solid #616161;
 }
 
 .zTrXGf:hover {
-    background-color: #4f5154;
+    background-color: var(--focus-color);
 }
 
 .zZN2Lb-Wvd9Cc {
@@ -183,7 +183,6 @@ body {
 /*.eT1oJ .VfPpkd-kBDsod .NMm5M {
     fill: var(--text-color);
 }*/
-
 .hhikbc {
     fill: var(--text-color);
 }
@@ -193,7 +192,7 @@ body {
 }
 
 .DkDwHe:hover {
-    background-color: #4f5154 !important;
+    background-color: var(--focus-color) !important;
 }
 
 .xSP5ic {
@@ -258,5 +257,70 @@ body {
 
 .WOPwXe {
     color: var(--icon-color);
+}
+
+.SNYuNc.z3vRcc-J3yWx {
+    color: var(--text-color);
+}
+
+.ReCbLb:not(.VfPpkd-O1htCb-OWXEXe-OWB6Me) .VfPpkd-uusGie-fmcmS {
+    color: var(--icon-color)
+}
+
+.VfPpkd-xl07Ob-XxIAqe {
+    background-color: var(--secondary-bg-color)
+}
+
+.s8kOBc .VfPpkd-rymPhb-fpDzbe-fmcmS {
+    color: var(--icon-color)
+}
+
+.s8kOBc .VfPpkd-rymPhb-ibnC6b.VfPpkd-rymPhb-ibnC6b-OWXEXe-gk6SMd {
+    background-color: var(--focus-color)
+}
+
+.s8kOBc .VfPpkd-rymPhb-ibnC6b.VfPpkd-rymPhb-ibnC6b-OWXEXe-gk6SMd span {
+    color: var(--text-color)
+}
+
+.fWf7qe .Yalane {
+    background-color: var(--bg-color)
+}
+
+.fWf7qe:not(.RDPZE):hover .Yalane {
+    background-color: var(--focus-color)
+}
+
+.ee1HBc .fWf7qe:not(.RDPZE) .tL9Q4c {
+    color: var(--text-color)
+}
+
+.UISY8d-Ysl7Fe a {
+    color: var(--icon-color)
+}
+
+.d4Fe0d {
+    background-color: var(--secondary-bg-color);
+    border: 0.0625rem solid #616161;
+}
+
+.wZTANe .J1raN:hover {
+    color: var(--text-color);
+}
+
+.ee1HBc .UISY8d-Ysl7Fe:hover {
+    background-color: var(--secondary-bg-color);
+}
+
+.ee1HBc .UISY8d-Ysl7Fe:focus {
+    background-color: var(--secondary-bg-color);
+}
+
+.ee1HBc .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .idtp4e {
+    background-color: var(--secondary-bg-color);
+}
+
+.u73Apc {
+    border-bottom: 0.0625rem solid var(--icon-color);
 }
 }
