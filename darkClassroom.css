@@ -1,9 +1,8 @@
 /*
     Author:             Froxcey
     Github respository: https://github.com/froxcey/DarkClassroom
-    Homepage:           https://froxcey.tumblr.com
-    License:            MIT
-    Version:            0.4.2
+    License:            GPL-3.0-or-later
+    Version:            0.4.4
 */
 :root {
     --bg-color: #232323;
@@ -121,7 +120,7 @@ body {
 /* Class names and description */
 .nhassd,
 .asQXV {
-    color: var(--text-color);
+    color: var(--icon-color);
 }
 
 .TajIHf,
@@ -354,5 +353,85 @@ body {
     background: var(--secondary-bg-color)
 }
 .q6oraf .VfPpkd-StrnGf-rymPhb {
-    color: var(--text-color)
+    color: var(--text-color);
+}
+
+.IzVHde {
+    background: var(--secondary-bg-color);
+}
+.kYtXye .UISY8d-Ysl7Fe:hover {
+    background: var(#272f3c);
+}
+.ksaOtd {
+    color: var(--text-color);
+}
+.CJXzee a:hover {
+    color: var(--icon-color);
+}
+.IMvYId:visited {
+    color: var(--icon-color);
+}
+.OK1tJe {
+    background-color: #4a4a4a;
+}
+.ft5Sbf {
+    border: 1px solid rgba(255, 255, 255, .12);
+}
+.FMzRdf {
+    color: var(--icon-color);
+}
+.jlfrG {
+    color: var(--icon-color);
+}
+.jlfrG::after {
+    background: inherit;
+}
+.jlfrG::before {
+    background: inherit;
+}
+.C4yF5e {
+    border: 1px solid rgba(255, 255, 255, .12);
+}
+.ar1wE .eqqrO, .ySjuvd .eqqrO {
+  border-top: 0.125rem solid var(--secondary-bg-color);
+}
+.Eajscb .vT1Gyc.N4XV7d {
+  color: var(--icon-color);
+}
+.Eajscb .vT1Gyc.pCcXPe {
+  color: var(--icon-color);
+}
+.UvHKof .VnOHwf-Tvm9db {
+  color: var(--text-color);
+}
+.RdyDwe.snByac{
+  color: var(--icon-color);
+}
+.UvHKof.Y5sE8d:not(.RDPZE):hover{
+  box-shadow: none;
+}
+.AeAAkf{
+  border: 1px var(--icon-color) solid;
+}
+.UvHKof .AeAAkf:not(.RDPZE):hover {
+  border: 1px var(--text-color) solid;
+}
+.l4V7wb:hover .NPEfkd.RveJvd.snByac {
+  color: var(--text-color);
+}
+
+.NPEfkd.RveJvd.snByac{
+  color: var(--icon-color);
+}
+
+.vwNuXe:hover .MM30Lb .asQXV {
+  color: var(--text-color);
+}
+
+.Hwv4mb .OGhwGf:hover .Pce5Kb {
+  color: var(--text-color)
+}
+.WpHeLc.VfPpkd-mRLv6.VfPpkd-RLmnJb{
+    color: var(--icon-color);
+    outline-color: var(--icon-color);
 }
